@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: nginx:0
+        image: maneesh0065/man:0
         ports:
         - containerPort: 8080
 
